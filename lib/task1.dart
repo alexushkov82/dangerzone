@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  print("Put your string here?");
+  print("Put your string here:");
   String string = stdin.readLineSync()!;
   int length = string.length;
   bool isPalindrom = true;
