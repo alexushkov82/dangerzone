@@ -1,5 +1,4 @@
 import 'dart:io';
-import 'dart:core';
 
 void main() {
   print('Put your number here:');
